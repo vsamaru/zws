@@ -57,4 +57,13 @@ export const sentryDSN = "https://b20352a911d94970ac616e2aea689378@o364622.inges
 /**
  * The config used for Firebase.
  */
-export const firebaseConfig = {"apiKey":"AIzaSyB274QGQF2McYAlFKGn5I1cQAtgoQlQiRM","authDomain":"iiilll.firebaseapp.com","databaseURL":"https://iiilll.firebaseio.com","projectId":"iiilll"}
+export const firebaseConfig = {
+    apiKey: "AIzaSyB-kuHOgs6nTbxq6hmOKYRHDKoEu-wMo0E",
+    authDomain: "i----i.firebaseapp.com",
+    databaseURL: "https://i----i.firebaseio.com",
+    projectId: "i----i",
+    storageBucket: "i----i.appspot.com",
+    messagingSenderId: "342861789681",
+    appId: "1:342861789681:web:f870094d2a129439bc2c50",
+    measurementId: "G-BPQ8RK45C6"
+  }
